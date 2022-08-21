@@ -134,6 +134,6 @@ def eliminarChar(comentarios):
     for key, value in char_to_replace.items():
         comentarios = comentarios.replace(key,value)
     return comentarios
-print('david loca')
+print('david loca pro siempre')
 print('Adios')
 PrimerMenu()
