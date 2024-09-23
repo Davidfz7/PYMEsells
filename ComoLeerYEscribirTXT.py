@@ -1,6 +1,6 @@
 
 def eliminar():
-    myDictionary = {'key1': ['Hola']}
+    myDictionary = {'key1': ["Hola"]}
     quejas = str(myDictionary['key1'])
     char_to_replace = {'[': '',
                        ']': '',
